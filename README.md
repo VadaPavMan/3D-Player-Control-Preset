@@ -4,6 +4,8 @@ This project provides a **ready-to-use 3D player controller** with realistic mov
 
 ![gif](Assets/VideoSample1.gif)
 
+![photo](Assets/Sample.png)
+
 **Download Models ->** [Mixamo Characters](https://www.mixamo.com/#/?page=1&type=Character)
 
 **Download Animations ->** [Mixamo Animations](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack)
