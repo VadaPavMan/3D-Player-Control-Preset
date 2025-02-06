@@ -2,6 +2,9 @@
 
 This project provides a **ready-to-use 3D player controller** with realistic movement mechanics and animations in Unity. Designed for beginners and intermediate developers, it serves as a foundation for games requiring precise and smooth character controls.  
 
+**Download Models ->** [Mixamo Characters](https://www.mixamo.com/#/?page=1&type=Character)
+**Download Animations ->** [Mixamo Animations](https://www.mixamo.com/#/?page=1&type=Motion%2CMotionPack)
+
 ### Features ✨  
 - **Smooth forward and backward movement** with customizable speed.  
 - **Idle, Walk, Sprint, and Backwalk animations** seamlessly integrated.  
