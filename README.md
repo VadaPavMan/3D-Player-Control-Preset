@@ -23,11 +23,7 @@ This project provides a **ready-to-use 3D player controller** with realistic mov
 
 ### Future Improvements 💡  
 - Add strafing and diagonal movement.  
-- Include jumping and crouching mechanics.  
-- Support for AI-controlled characters.  
+- Include jumping and crouching mechanics.
+- More Coming In Future.
 
 Feel free to fork, modify, or contribute to this project. Let's create amazing games together! 🎉  
-
----  
-
-Let me know if you’d like to tweak any part of the description!
