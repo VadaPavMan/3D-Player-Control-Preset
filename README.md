@@ -2,7 +2,7 @@
 
 This project provides a **ready-to-use 3D player controller** with realistic movement mechanics and animations in Unity. Designed for beginners and intermediate developers, it serves as a foundation for games requiring precise and smooth character controls. 
 
-![69p2p](https://github.com/user-attachments/assets/64210e82-e987-4145-95e3-4fc14a09973e)
+![video](Assets/VideoSample.mp4)
 
 **Download Models ->** [Mixamo Characters](https://www.mixamo.com/#/?page=1&type=Character)
 
